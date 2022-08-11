@@ -1,5 +1,5 @@
 # Job Finder
-This progressive web app enables users to search for jobs, manipulate the list of results with sorting, and use bookmarking to save jobs in local storage. 
+This app enables users to search for jobs, manipulate the list of results with sorting, and use bookmarking to save jobs in local storage. 
 The project is an adaptation of an academic project by ByteGrad.com.
 ### Features
 - Search with API communications using async/await and Fetch
