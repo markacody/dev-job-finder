@@ -6,7 +6,7 @@ export const DEFAULT_DISPLAY_TIME = 3500;
 export const MAX_RESULTS_PER_PAGE = 7;
 
 // ------STATES------
-// States can be managed with an object literal that contains named states defined initially as empty arrays.
+// States can be managed with an object literal that contains named states defined initially as arrays, objects, or values.
 export const state = {
     searchJobItems: [],
     bookmarkJobItems: [],
